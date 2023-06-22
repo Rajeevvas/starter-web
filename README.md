@@ -1,6 +1,9 @@
 # Starter Web Repo
 
+adding sample text
+
 ## Intro
+adding sample Intro
 
 ## Purpose
 
