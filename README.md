@@ -6,7 +6,7 @@ adding sample text
 adding sample Intro
 
 ## Purpose
-adding Purpose sample text
+adding Purpose sample text adding
 ## deployment
-adding deployment sample text
+adding deployment sample text adding
 ## How to contribute
